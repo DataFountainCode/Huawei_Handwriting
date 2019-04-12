@@ -1,0 +1,24 @@
+import alphabets
+name = 'T_test'
+log_dir = './work_dirs'
+random_sample = True
+keep_ratio = True
+adam = False
+adadelta = False
+saveInterval = 1
+valInterval = 10000
+n_test_disp = 10
+displayInterval = 5000
+experiment = './expr'
+alphabet = alphabets.alphabet
+crnn = '' #'./work_dirs/rms_cont_now_lr_0.0000080_batchSize_5_time_0314082748_/crnn_Rec_done_epoch_2.pth'
+beta1 =0.5
+lr = 0.000001
+niter = 300
+nh = 256
+imgW = 10
+imgH = 64
+batchSize = 5
+workers = 2
+with_crop = True
+total_num = 31409

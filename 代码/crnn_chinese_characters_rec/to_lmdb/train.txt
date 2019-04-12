@@ -1,0 +1,5 @@
+./train_images/20456343_4045240981.jpg 班
+./train_images/20457281_3395886438.jpg 美
+./train_images/20458000_2937840822.jpg 投
+./train_images/20459625_3011879797.jpg 有
+./train_images/20459734_3772574191.jpg 是
